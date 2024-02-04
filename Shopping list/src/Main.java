@@ -1,6 +1,7 @@
 import java.util.*;
 import java.io.*;
 public class Main{
+    
     // Define all Scanner, ArrayList, and other variables
     public static Scanner wordScan = new Scanner(System.in);
     public static Scanner numScan = new Scanner(System.in);
@@ -11,6 +12,7 @@ public class Main{
     public static boolean access, chrono, alpha, cate;
     public static String[] category = {"Produce", "Meat", "Dairy", "Seafood", "Bread & Bakery", "Deli",
             "Other Foods", "Health Care", "Household", "Miscellaneous"};
+    
     public static void main(String[] args){
         // Create a string array to hold the options of the menu
         String[] menu = {"Access a list", "Create a new list", "Delete an existing list", "Merge two lists together", "Settings", "Quit"};

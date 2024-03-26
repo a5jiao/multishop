@@ -1,4 +1,6 @@
-# Multifunctional-Shopping-List
+# MultiShop
+A multifunctional shopping list app written purely in Java, built on the foundations of object-oriented programming.
+
 Instructions for Set-up:
 
 Download as zip, up-zip and upload the resulting folder into any Java IDE. Make sure to drag all the contents out of the unzipped folder, as well as 'Shopping List'. There should be NO folder that everything collectively sits in.

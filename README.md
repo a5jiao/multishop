@@ -1,4 +1,4 @@
-# MultiShop
+# multishop
 A multifunctional shopping list app written purely in Java, built on the foundations of object-oriented programming.
 
 Instructions for Set-up:
